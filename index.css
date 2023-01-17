@@ -1,0 +1,19 @@
+#blur.active{
+    filter:blur(20px);
+}
+
+#popup.active{
+    visibility: visible;
+
+    opacity: 1;
+
+    transition: 0.5s;
+
+    
+}
+
+#popup{
+    visibility: hidden;
+    opacity: 0;
+
+}
